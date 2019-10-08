@@ -17,4 +17,7 @@ It also plays sound.
 Filter, Map, Reduce and, Sort exercise.
 
 **Challenge 05: Flex Panel Image Gallery**
-![Image Gallery](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex05.gif)
+
+I had to compress the gif to reduce the size significantly for rendering.
+![Image Gallery](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex05-32.gif)
+Opening and closing is done by left clicking.
