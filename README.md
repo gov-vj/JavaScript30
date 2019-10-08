@@ -27,3 +27,6 @@ Gif rendering is not working for this gif correctly.
 **Challenge 07: Array Cardio 2**
 
 Some, Every, Find and, findIndex exercise.
+
+**Challenge 08: HTML5 Canvas**
+![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex08.gif)
