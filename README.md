@@ -13,4 +13,5 @@ It also plays sound.
 ![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex03.gif)
 
 **Challenge 04: Array Cardio 1**
+
 Filter, Map, Reduce and, Sort exercise.
