@@ -11,3 +11,6 @@ It also plays sound.
 
 **Challenge 03: Dynamically updating CSS Properties**
 ![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex03.gif)
+
+**Challenge 04: Array Cardio 1**
+Filter, Map, Reduce and, Sort exercise.
