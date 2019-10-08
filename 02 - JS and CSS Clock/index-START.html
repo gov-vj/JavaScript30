@@ -60,14 +60,55 @@
       width: 50%;
       height: 6px;
       background: black;
+      transform-origin: right;
+      transform: rotate(90deg);
+      transition: all 0.05s;
+      transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
       position: absolute;
       top: 50%;
+    }
+
+    .disable-transition {
+      transition: none !important;
     }
 
   </style>
 
   <script>
+    const secHand = document.querySelector('.second-hand');
+    const minHand = document.querySelector('.min-hand');
+    const hourHand = document.querySelector('.hour-hand');
 
+    function getDegree(time) {
+      return 90 + (time * 6);
+    }
+
+    function getCurrentPosOfHands() {
+      const now = new Date();
+      const secHandPos = getDegree(now.getSeconds());
+      const minHandPos = getDegree(now.getMinutes());
+      const hourHandPos = getDegree(now.getHours());
+      return {secHandPos, minHandPos, hourHandPos};
+    }
+
+    //for edge case
+    function disableEnableHandAnimation(hand, handPos) {
+      if (handPos === 90) {
+        hand.classList.add('disable-transition');
+      } else {
+        hand.classList.remove('disable-transition');
+      }
+    }
+
+    setInterval(() => {
+      const {secHandPos, minHandPos, hourHandPos} = getCurrentPosOfHands();
+      disableEnableHandAnimation(secHand, secHandPos);
+      disableEnableHandAnimation(minHand, minHandPos);
+      disableEnableHandAnimation(hourHand, hourHandPos);
+      secHand.style.transform = `rotate(${secHandPos}deg)`;
+      minHand.style.transform = `rotate(${minHandPos}deg)`;
+      hourHand.style.transform = `rotate(${hourHandPos}deg)`;
+    }, 1000);
 
   </script>
 </body>
