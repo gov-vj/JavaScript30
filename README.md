@@ -18,6 +18,6 @@ Filter, Map, Reduce and, Sort exercise.
 
 **Challenge 05: Flex Panel Image Gallery**
 
-I had to compress the gif to reduce the size significantly for rendering.
-![Image Gallery](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex05-16.gif)
-Opening and closing is done by left clicking.
+Gif rendering is not working for this gif correctly.
+
+Link: https://github.com/gov-vj/Javascript30/blob/master/recordings/ex05.gif
