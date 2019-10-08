@@ -20,4 +20,6 @@ Filter, Map, Reduce and, Sort exercise.
 
 Gif rendering is not working for this gif correctly.
 
-Link: https://github.com/gov-vj/Javascript30/blob/master/recordings/ex05.gif
+
+**Challenge 06: Type Ahead**
+![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex06.gif)
