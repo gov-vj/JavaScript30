@@ -23,3 +23,7 @@ Gif rendering is not working for this gif correctly.
 
 **Challenge 06: Type Ahead**
 ![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex06.gif)
+
+**Challenge 07: Array Cardio 2**
+
+Some, Every, Find and, findIndex exercise.
