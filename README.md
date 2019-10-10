@@ -30,3 +30,8 @@ Some, Every, Find and, findIndex exercise.
 
 **Challenge 08: [HTML5 Canvas](https://codepen.io/gov-vj/pen/oNNjwmg)**
 ![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex08.gif)
+
+
+**Challenge 09: [Console Tricks]()**
+
+Console log, warn, info, error, assert. group, count, time and, table exercise.
