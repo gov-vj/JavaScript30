@@ -2,7 +2,7 @@
 [30 Day Vanilla JS Challenge.](https://javascript30.com/)
 
 
-**Challenge 01: Javascript Drum Kit**
+**Challenge 01: [Javascript Drum Kit](https://codepen.io/gov-vj/pen/gOOaWdN)**
 ![Drum Kit](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex01.gif)
 It also plays sound.
 
