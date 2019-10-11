@@ -43,3 +43,6 @@ Console log, warn, info, error, assert. group, count, time and, table exercise.
 
 Gif rendering is not working for this gif correctly.
 
+**Challenge 12: [Key sequence detection]()**
+![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex12.gif)
+Typing "govind" will randomly place a unicorn.
