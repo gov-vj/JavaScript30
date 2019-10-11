@@ -38,3 +38,8 @@ Console log, warn, info, error, assert. group, count, time and, table exercise.
 
 **Challenge 10: [Hold Shift to check/uncheck multiple checkboxes]()**
 ![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex10.gif)
+
+**Challenge 11: [HTML5 Video Player]()**
+
+Gif rendering is not working for this gif correctly.
+
