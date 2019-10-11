@@ -35,3 +35,6 @@ Some, Every, Find and, findIndex exercise.
 **Challenge 09: [Console Tricks]()**
 
 Console log, warn, info, error, assert. group, count, time and, table exercise.
+
+**Challenge 10: [Hold Shift to check/uncheck multiple checkboxes]()**
+![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex10.gif)
