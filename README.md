@@ -50,3 +50,5 @@ Typing "govind" will randomly place a unicorn.
 **Challenge 13: [Image slides in on scroll]()**
 
 Gif rendering is not working for this gif correctly.
+
+**Challenge 14: [JavaScript References VS Copying]()**
