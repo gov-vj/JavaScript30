@@ -47,6 +47,13 @@ Gif rendering is not working for this gif correctly.
 ![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex12.gif)
 Typing "govind" will randomly place a unicorn.
 
+<p class="codepen" data-height="265" data-theme-id="0" data-default-tab="result" data-user="gov-vj" data-slug-hash="KKKVmrd" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="KKKVmrd">
+  <span>See the Pen <a href="https://codepen.io/gov-vj/pen/KKKVmrd">
+  KKKVmrd</a> by Govind Vijay (<a href="https://codepen.io/gov-vj">@gov-vj</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 **Challenge 13: [Image slides in on scroll]()**
 
 Gif rendering is not working for this gif correctly.
