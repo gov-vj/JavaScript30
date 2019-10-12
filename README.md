@@ -43,18 +43,18 @@ Console log, warn, info, error, assert. group, count, time and, table exercise.
 
 Gif rendering is not working for this gif correctly.
 
-**Challenge 12: [Key sequence detection]()**
+**Challenge 12: [Key sequence detection](https://codepen.io/gov-vj/pen/KKKVmrd)**
 ![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex12.gif)
 Typing "govind" will randomly place a unicorn.
 
-**Challenge 13: [Image slides in on scroll]()**
+**Challenge 13: [Image slides in on scroll](https://codepen.io/gov-vj/pen/GRRomLe)**
 
 Gif rendering is not working for this gif correctly.
 
-**Challenge 14: [JavaScript References VS Copying]()**
+**Challenge 14: [JavaScript References VS Copying](https://codepen.io/gov-vj/pen/xxxZdNp?editors=1112)**
 
-**Challenge 15: [Local storage and event delegation]()**
+**Challenge 15: [Local storage and event delegation](https://codepen.io/gov-vj/pen/yLLebda)**
 ![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex15.gif)
 
-**Challenge 16: [Shadow follows mouse]()**
+**Challenge 16: [Shadow follows mouse](https://codepen.io/gov-vj/pen/OJJMmeK)**
 ![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex16.gif)
