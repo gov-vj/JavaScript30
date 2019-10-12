@@ -32,11 +32,11 @@ Some, Every, Find and, findIndex exercise.
 ![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex08.gif)
 
 
-**Challenge 09: [Console Tricks]()**
+**Challenge 09: [Console Tricks](https://codepen.io/gov-vj/pen/ExxPmLm?editors=1112)**
 
 Console log, warn, info, error, assert. group, count, time and, table exercise.
 
-**Challenge 10: [Hold Shift to check/uncheck multiple checkboxes]()**
+**Challenge 10: [Hold Shift to check/uncheck multiple checkboxes](https://codepen.io/gov-vj/pen/abbdWKw)**
 ![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex10.gif)
 
 **Challenge 11: [HTML5 Video Player]()**
@@ -52,3 +52,9 @@ Typing "govind" will randomly place a unicorn.
 Gif rendering is not working for this gif correctly.
 
 **Challenge 14: [JavaScript References VS Copying]()**
+
+**Challenge 15: [Local storage and event delegation]()**
+![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex15.gif)
+
+**Challenge 16: [Shadow follows mouse]()**
+![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex16.gif)
