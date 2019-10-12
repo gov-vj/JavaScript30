@@ -46,3 +46,6 @@ Gif rendering is not working for this gif correctly.
 **Challenge 12: [Key sequence detection]()**
 ![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex12.gif)
 Typing "govind" will randomly place a unicorn.
+
+**Challenge 13: [Image slides in on scroll]()**
+![img](https://github.com/gov-vj/Javascript30/blob/master/recordings/ex13.gif)

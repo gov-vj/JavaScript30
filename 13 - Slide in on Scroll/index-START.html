@@ -43,20 +43,40 @@
   </div>
 
   <script>
-    function debounce(func, wait = 20, immediate = true) {
+    function debounce(func, wait = 20) {
       var timeout;
       return function() {
-        var context = this, args = arguments;
-        var later = function() {
-          timeout = null;
-          if (!immediate) func.apply(context, args);
-        };
-        var callNow = immediate && !timeout;
+        var later = () => timeout = null;
+        var callNow = !timeout;
         clearTimeout(timeout);
         timeout = setTimeout(later, wait);
-        if (callNow) func.apply(context, args);
+        if (callNow) func.apply(this, arguments);
       };
     }
+
+    const sliderImages = document.querySelectorAll('.slide-in');
+
+    function isHalfShown(img) {
+      const slideInAt = window.scrollY + window.innerHeight - (img.height / 2);
+      return slideInAt > img.offsetTop;
+    }
+
+    function isNotScrolledPast(img) {
+      const imageBottom = img.offsetTop + img.height;
+      return window.scrollY < imageBottom;
+    }
+
+    function checkSlide(e) {
+      sliderImages.forEach(sliderImage => {
+        if (isHalfShown(sliderImage) && isNotScrolledPast(sliderImage)) {
+          sliderImage.classList.add('active');
+        } else {
+          sliderImage.classList.remove('active');
+        }
+      });
+    }
+
+    window.addEventListener('scroll', debounce(checkSlide));
 
   </script>
 
